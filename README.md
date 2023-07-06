@@ -1,1 +1,0 @@
-# gedcomx-thoughts
