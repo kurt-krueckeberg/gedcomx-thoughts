@@ -26,6 +26,8 @@ GEDDOM X [XML Format Specification](https://github.com/FamilySearch/gedcomx/blob
 
 ## Tools
 
+The [GEDCOM X Web services extension](http://rs.gedcomx.org/) (i.e. "GEDCOM X RS") defines a standard interface to genealogical data applications for the World Wide Web.
+
 Conversion software from [Gedcom to GedcomX](https://github.com/FamilySearch/gedcom5-conversion)
 
 GedcomX-viewer [git repo](https://github.com/FamilySearch/gedcomx-viewer). Clone it and do 'open index.html'. You can add persons and download the tree (to .json).
