@@ -12,17 +12,17 @@ GEDCOM X [Conceptual Model](https://github.com/FamilySearch/gedcomx/blob/master/
 
 The [Family Tree Data Model](https://www.familysearch.org/developers/docs/guides/FamilyTree-data-objects)
 
+## GEDCOM X Specification
+
+- The GedcomX [Specifications](http://www.gedcomx.org/Specifications.html)
+
 ## JSON serializaiton format
 
 [GEDCOM X (JSON)](https://www.familysearch.org/developers/docs/api/gx_json)
 
-## XML Specification
+## XML Format Specification
 
 GEDDOM X [XML Format Specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/xml-format-specification.md)
-
-## GEDCOM X Specification
-
-- The GedcomX [Specifications](http://www.gedcomx.org/Specifications.html)
 
 ## Tools
 
