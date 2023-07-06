@@ -12,7 +12,7 @@ GEDCOM X [Conceptual Model](https://github.com/FamilySearch/gedcomx/blob/master/
 
 The [Family Tree Data Model](https://www.familysearch.org/developers/docs/guides/FamilyTree-data-objects)
 
-## GEDCOM X Specification
+### GEDCOM X Specification
 
 - The GedcomX [Specifications](http://www.gedcomx.org/Specifications.html)
 
