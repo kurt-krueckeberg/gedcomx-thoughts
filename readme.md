@@ -4,16 +4,15 @@
 
 [What is Gedcom X?](https://www.familysearch.org/developers/docs/guides/gedcom-x)
 
-## Conceptual Model
+### Conceptual Model
 
 GEDCOM X [Conceptual Model](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md)
 
-## Data Model
+### Data Model
 
 The [Family Tree Data Model](https://www.familysearch.org/developers/docs/guides/FamilyTree-data-objects)
 
 ## JSON serializaiton format
-
 
 [GEDCOM X (JSON)](https://www.familysearch.org/developers/docs/api/gx_json)
 
