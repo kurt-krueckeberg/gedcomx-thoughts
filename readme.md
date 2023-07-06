@@ -2,27 +2,20 @@
 
 ## What is Gedcom X
 
-[What is Gedcom X?](https://www.familysearch.org/developers/docs/guides/gedcom-x)
-
-### Conceptual Model
-
-GEDCOM X [Conceptual Model](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md)
-
-### Data Model
+[What is Gedcom X?](https://www.familysearch.org/developers/docs/guides/gedcom-x) is the definitive introduction. It has essential links that
+will guide you to a better understanding of what Gedcom X and how it works. The other links on this page are references.
 
 The [Family Tree Data Model](https://www.familysearch.org/developers/docs/guides/FamilyTree-data-objects)
 
-### GEDCOM X Specification
+## Links
+
+- GEDCOM X [Conceptual Model](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md)
 
 - The GedcomX [Specifications](http://www.gedcomx.org/Specifications.html)
 
-## JSON serializaiton format
+- [GEDCOM X (JSON)](https://www.familysearch.org/developers/docs/api/gx_json)
 
-[GEDCOM X (JSON)](https://www.familysearch.org/developers/docs/api/gx_json)
-
-## XML Format Specification
-
-GEDDOM X [XML Format Specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/xml-format-specification.md)
+- GEDDOM X [XML Format Specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/xml-format-specification.md)
 
 ## Tools
 
