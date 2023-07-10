@@ -14,7 +14,8 @@ Genealogical data is structured by data types such as persons, relationships, an
 
 The [GEDCOM X JSON Serialization Format](https://github.com/FamilySearch/gedcomx/blob/master/specifications/json-format-specification.md) specifies a JSON
 media type for the GEDCOM X Conceptual Model, and requests discussion and suggestions for improvements. Highlighted JSON schema for each of the JSON objects can be see
-at the GedcomX JSON [serialization format](https://www.familysearch.org/developers/docs/api/gx_json). The object's properties and its superclasses and interfaces are also given. 
+at the GedcomX JSON [serialization format page](https://www.familysearch.org/developers/docs/api/gx_json). It also gives each object's properties, any superclasses
+and interfaces are also given. 
 
 The [GEDCOM X Java File Format](https://github.com/FamilySearch/gedcomx-java/blob/master/gedcomx-fileformat/README.md) provides support for reading and writing the
 GEDCOM X File Format.
