@@ -23,7 +23,7 @@ the GEDCOM X File Format.
 
 [GEDCOM X Java File Format](https://github.com/FamilySearch/gedcomx-java/blob/master/gedcomx-fileformat/README.md) provides support for reading and writing the GEDCOM X File Format.
 
-[GEDCOM X (JSON)](https://www.familysearch.org/developers/docs/api/gx_json)
+[GEDCOM X (JSON)](https://www.familysearch.org/developers/docs/api/gx_json) has the JSON serialization format.
 
 ## Software
 
