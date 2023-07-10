@@ -1,11 +1,11 @@
 # GECOM X
 
-## What is Gedcom X
+## Understand What is Gedcom X
 
-These links help explain exactly what GedcomX is. [What is Gedcom X?](https://www.familysearch.org/developers/docs/guides/gedcom-x) is the definitive introduction. It has essential links that
-will guide you to a better understanding of what Gedcom X and how it works.
+[What is Gedcom X?](https://www.familysearch.org/developers/docs/guides/gedcom-x) is the definitive introduction. It has helpful
+links that will guide you to a better understanding of what Gedcom X and how it works.
 
-The  [Family Tree Data Model](https://www.familysearch.org/developers/docs/guides/FamilyTree-data-objects) is intended to help programmers become
+The [Family Tree Data Model](https://www.familysearch.org/developers/docs/guides/FamilyTree-data-objects) is intended to help programmers become
 familiar with the data model of the FamilySearch Family Tree, which closely conform to the GedcomX [specification](http://www.gedcomx.org/Specifications.html).
 
 The GEDCOM X [Conceptual Model](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md) is a
@@ -16,7 +16,8 @@ The [GEDCOM X JSON Serialization Format](https://github.com/FamilySearch/gedcomx
 media type for the GEDCOM X Conceptual Model, and requests discussion and suggestions for improvements. Highlighted JSON schema for each of the JSON objects can be see
 at [here](https://www.familysearch.org/developers/docs/api/gx_json). The object's properties and its superclasses and interfaces are also given. 
 
-The [GEDCOM X Java File Format](https://github.com/FamilySearch/gedcomx-java/blob/master/gedcomx-fileformat/README.md) provides support for reading and writing the GEDCOM X File Format.
+The [GEDCOM X Java File Format](https://github.com/FamilySearch/gedcomx-java/blob/master/gedcomx-fileformat/README.md) provides support for reading and writing
+the GEDCOM X File Format.
 
 [gedomx-java]() is the github repo for 
 
