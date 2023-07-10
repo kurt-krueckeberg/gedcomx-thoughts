@@ -26,4 +26,4 @@ GEDCOM X File Format.
 
 - The [GEDCOM X Web services extension](http://rs.gedcomx.org/) (i.e. "GEDCOM X RS") defines a standard interface to genealogical data applications for the World Wide Web.
 
-- GedcomX-viewer [git repo](https://github.com/FamilySearch/gedcomx-viewer). Clone it and do 'open index.html'. You can add persons and download the tree (to .json).
+- [GedcomX-viewer](https://github.com/FamilySearch/gedcomx-viewer). Clone it and do 'open index.html'. You can add persons and download the tree (to .json).
