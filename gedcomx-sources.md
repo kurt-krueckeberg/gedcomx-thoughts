@@ -22,9 +22,9 @@ The differences between Events and Facts in Gedcom X is discussed here:
 
 * [Clarifying Events vs Facts](https://github.com/FamilySearch/gedcomx/commit/ef0fe00c3645d2809c68cbccc39353d2154f9b23)
 
-* Gedcom X Conceptual Model [Events](https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md)
+* [Events](https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md)in Gedcom X Conceptual Model. 
 
-* Gedcom X Conceptual Model [Facts](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md)
+* [Facts](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md) in Gedcom X Conceptual Model.
 
 * [Facts](https://www.familysearch.org/innovate/facts)
 
