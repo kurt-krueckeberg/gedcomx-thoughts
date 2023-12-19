@@ -20,9 +20,11 @@ The differences between Events and Facts in Gedcom X is discussed here:
 
 * Events have [Date and Place](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-custom-events-and-facts-to-a-person-in-family-tree); facts don't.
 
-* [Events vs Facts](https://github.com/FamilySearch/gedcomx/issues/208)
-
 * [Clarifying Events vs Facts](https://github.com/FamilySearch/gedcomx/commit/ef0fe00c3645d2809c68cbccc39353d2154f9b23)
+
+* Gedcom X Conceptual Model [Events](https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md)
+
+* Gedcom X Conceptual Model [Facts](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md)
 
 * [Facts](https://www.familysearch.org/innovate/facts)
 
