@@ -15,7 +15,7 @@ Genealogical data is structured by data types such as persons, relationships, an
 The differences between Events and Facts in Gedcom X is discussed here:
 
 > [!TIP]
-> To easily test the ideas found in the first link below, simply go to **Family Tree > Tree** and do `+ Event` to add an event
+> To easily test the ideas found in the first link below, simply go to **Family Tree --> Tree** and do `+ Event` to add an event
 > or `+ Fact` to add a fact.
 
 * Events have [Date and Place](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-custom-events-and-facts-to-a-person-in-family-tree); facts don't.
