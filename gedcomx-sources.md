@@ -18,6 +18,8 @@ The differences between Events and Facts in Gedcom X is discussed here:
 
 * [Clarifying Events vs Facts](https://github.com/FamilySearch/gedcomx/commit/ef0fe00c3645d2809c68cbccc39353d2154f9b23)
 
+* [Facts](https://www.familysearch.org/innovate/facts)
+
 The [GEDCOM X JSON Serialization Format](https://github.com/FamilySearch/gedcomx/blob/master/specifications/json-format-specification.md) specifies a JSON
 media type for the GEDCOM X Conceptual Model, and requests discussion and suggestions for improvements. Highlighted JSON schema for each of the JSON objects can be see
 at the GedcomX JSON [serialization format page](https://www.familysearch.org/developers/docs/api/gx_json). It also gives each object's properties, any superclasses
