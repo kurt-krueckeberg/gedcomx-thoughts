@@ -1,6 +1,6 @@
 # GECOM X
 
-## Understand What is Gedcom X
+## Understanding What Gedcom X is
 
 [What is Gedcom X?](https://www.familysearch.org/developers/docs/guides/gedcom-x) is the definitive introduction. It has helpful
 links that will guide you to a better understanding of what Gedcom X and how it works.
