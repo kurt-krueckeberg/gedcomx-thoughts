@@ -12,7 +12,7 @@ The GEDCOM X [Conceptual Model](https://github.com/FamilySearch/gedcomx/blob/mas
 specification of formal concepts and types that are used to provide a standard model and vocabulary for describing genealogical data.
 Genealogical data is structured by data types such as persons, relationships, and sources.
 
-The difference between Events and Facts in Gedcom X is discussed here:
+The differences between Events and Facts in Gedcom X is discussed here:
 
 * [Events vs Facts](https://github.com/FamilySearch/gedcomx/issues/208)
 
