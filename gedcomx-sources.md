@@ -3,7 +3,7 @@
 ## Understanding What Gedcom X is
 
 [What is Gedcom X?](https://www.familysearch.org/developers/docs/guides/gedcom-x) is the definitive introduction. It has helpful
-links that will guide you to a better understanding of what Gedcom X and how it works.
+links that will guide you to a better understanding of what Gedcom X is and how it works.
 
 The [Family Tree Data Model](https://www.familysearch.org/developers/docs/guides/FamilyTree-data-objects) is intended to help programmers become
 familiar with the data model of the FamilySearch Family Tree, which closely conform to the GedcomX [specification](http://www.gedcomx.org/Specifications.html).
