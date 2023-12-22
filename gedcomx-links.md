@@ -28,7 +28,7 @@ applicable to a fact. **Facts do not exist outside the scope of the subject to w
 
 * [Clarifying Events vs Facts](https://github.com/FamilySearch/gedcomx/commit/ef0fe00c3645d2809c68cbccc39353d2154f9b23)
  
-* Section 2.5.2 of [Events and Facts Distinguished in Detail](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md)
+* Section 2.5.2 of [Events and Facts Distinguished in Detail](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md) is very good.
 
 ### Event types specification
 
