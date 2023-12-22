@@ -28,8 +28,6 @@ Events have Date and Place. Facts don't:
 
 * [Facts](https://www.familysearch.org/innovate/facts)
 
-* [Are You Adding Fun Details to FamilySearch's Shared Family Tree? ](https://www.familyhistoryfanatics.com/adding-fun-details-to-familysearch)
-  
 * [Going Beyond Birth and Death Dates in Family Tree ](https://www.familysearch.org/en/blog/going-beyond-birth-and-death-dates-in-family-tree)
   
 The [GEDCOM X JSON Serialization Format](https://github.com/FamilySearch/gedcomx/blob/master/specifications/json-format-specification.md) specifies a JSON
