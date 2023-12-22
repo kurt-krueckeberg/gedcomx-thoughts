@@ -18,8 +18,6 @@ The differences between Events and Facts in Gedcom X is discussed here:
 > To easily test the ideas found in the first link below, simply go to **Family Tree -> Tree*, and do `+ Event` to add an event,
 > or `+ Fact` to add a fact.
 
-### Events versus Facts Explained
-
 Events and facts are separately distinguished in Gedcom X. Events are occurances viewed abstractly apart from the persons in those events. Events often refer to persons
 and might infer relationships, but **events are described independently of those persons and relationships.**
 
@@ -30,11 +28,11 @@ applicable to a fact. **Facts do not exist outside the scope of the subject to w
  
 * Section 2.5.2 of [Events and Facts Distinguished in Detail](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md)
 
-Event types specification
+### Event types specification
 
 See Gedcom X [Events specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md) in Gedcom X Conceptual Model. 
 
-Fact types specification
+### Fact types specification
 
 See Gedcom X [Facts specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md) in Gedcom X Conceptual Model.
   
