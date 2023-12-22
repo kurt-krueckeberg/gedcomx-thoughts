@@ -32,11 +32,11 @@ applicable to a fact. **Facts do not exist outside the scope of the subject to w
 
 ### Event types specification
 
-See Gedcom X [Events specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md) in Gedcom X Conceptual Model. 
+See Gedcom X [events specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md) in Gedcom X Conceptual Model. 
 
 ### Fact types specification
 
-See Gedcom X [Facts specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md) in Gedcom X Conceptual Model.
+See Gedcom X [facts specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md) in Gedcom X Conceptual Model.
 
 ## Serialization
 
