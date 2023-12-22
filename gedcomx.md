@@ -5,12 +5,14 @@
 [What is Gedcom X?](https://www.familysearch.org/developers/docs/guides/gedcom-x) is the definitive introduction. It has helpful
 links that will guide you to a better understanding of what Gedcom X is and how it works.
 
+The GedcomX.org [documentation](http://gedcomx.org/Documentation.html) page has links to the Gedcom X Conceptual Model. The GEDCOM X
+[Conceptual Model](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md) is a specification of formal concepts and types that are used to
+provide a standard model and vocabulary for describing genealogical data. Genealogical data is structured by data types such as persons, relationships, and sources.  
+
+There is also a Gedcom X [Recipe Book](http://gedcomx.org/Recipe-Book.html) that has shows a few examples of how the Gedcomx X model is used.
+
 The [Family Tree Data Model](https://www.familysearch.org/developers/docs/guides/FamilyTree-data-objects) is intended to help programmers become
 familiar with the data model of the FamilySearch Family Tree, which closely conform to the GedcomX [specification](http://www.gedcomx.org/Specifications.html).
-
-The GEDCOM X [Conceptual Model](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md) is a
-specification of formal concepts and types that are used to provide a standard model and vocabulary for describing genealogical data.
-Genealogical data is structured by data types such as persons, relationships, and sources.
 
 The differences between Events and Facts in Gedcom X is discussed here:
 
