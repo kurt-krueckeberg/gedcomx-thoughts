@@ -21,12 +21,18 @@ The differences between Events and Facts in Gedcom X is discussed here:
 Events have Date and Place. Facts don't:
 
 * [Clarifying Events vs Facts](https://github.com/FamilySearch/gedcomx/commit/ef0fe00c3645d2809c68cbccc39353d2154f9b23)
+ 
+* Section 2.5.2 [Events and Facts Distinguished in Detail](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md)
+
+* [Facts](https://www.familysearch.org/innovate/facts) -- not sure of the value of this link.
+
+Event types specification
 
 * [Events](https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md) in Gedcom X Conceptual Model. 
 
-* [Facts](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md) in Gedcom X Conceptual Model.
+Fact types specification
 
-* [Facts](https://www.familysearch.org/innovate/facts)
+* [Facts](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md) in Gedcom X Conceptual Model.
   
 The [GEDCOM X JSON Serialization Format](https://github.com/FamilySearch/gedcomx/blob/master/specifications/json-format-specification.md) specifies a JSON
 media type for the GEDCOM X Conceptual Model, and requests discussion and suggestions for improvements. Highlighted JSON schema for each of the JSON objects can be see
