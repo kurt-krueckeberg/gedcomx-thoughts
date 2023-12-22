@@ -32,11 +32,11 @@ applicable to a fact. **Facts do not exist outside the scope of the subject to w
 
 Event types specification
 
-* [Events](https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md) in Gedcom X Conceptual Model. 
+See Gedcom X [Events specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md) in Gedcom X Conceptual Model. 
 
 Fact types specification
 
-* [Facts](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md) in Gedcom X Conceptual Model.
+See Gedcom X [Facts specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md) in Gedcom X Conceptual Model.
   
 The [GEDCOM X JSON Serialization Format](https://github.com/FamilySearch/gedcomx/blob/master/specifications/json-format-specification.md) specifies a JSON
 media type for the GEDCOM X Conceptual Model, and requests discussion and suggestions for improvements. Highlighted JSON schema for each of the JSON objects can be see
