@@ -20,7 +20,11 @@ The differences between Events and Facts in Gedcom X is discussed here:
 
 ### Events versus Facts Explained
 
-Events and facts are separately distinguished in Gedcom X. Events are occurances viewed abstractly apart from the persons in those events. 
+Events and facts are separately distinguished in Gedcom X. Events are occurances viewed abstractly apart from the persons in those events. Events often refer to persons
+and might infer relationships, but **events are described independently of those persons and relationships.**
+
+A "fact" is a data item that is presumed to be true about a specific subject, such as a person or relationship. A time or place is often, but not always,
+applicable to a fact. **Facts do not exist outside the scope of the subject to which they apply.**:w
 
 * [Clarifying Events vs Facts](https://github.com/FamilySearch/gedcomx/commit/ef0fe00c3645d2809c68cbccc39353d2154f9b23)
  
