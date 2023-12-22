@@ -37,14 +37,15 @@ See Gedcom X [Events specification](https://github.com/FamilySearch/gedcomx/blob
 ### Fact types specification
 
 See Gedcom X [Facts specification](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md) in Gedcom X Conceptual Model.
-  
+
+## Serialization
+
 The [GEDCOM X JSON Serialization Format](https://github.com/FamilySearch/gedcomx/blob/master/specifications/json-format-specification.md) specifies a JSON
 media type for the GEDCOM X Conceptual Model, and requests discussion and suggestions for improvements. Highlighted JSON schema for each of the JSON objects can be see
 at the GedcomX JSON [serialization format page](https://www.familysearch.org/developers/docs/api/gx_json). It also gives each object's properties, any superclasses
 and interfaces are also given.
 
 There is also an [GEDCOM X XML Serialization Format](https://github.com/FamilySearch/gedcomx/blob/master/specifications/xml-format-specification.md).
-
 
 ## Software
 
