@@ -27,8 +27,6 @@ Events have Date and Place. Facts don't:
 * [Facts](https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md) in Gedcom X Conceptual Model.
 
 * [Facts](https://www.familysearch.org/innovate/facts)
-
-* [Going Beyond Birth and Death Dates in Family Tree ](https://www.familysearch.org/en/blog/going-beyond-birth-and-death-dates-in-family-tree)
   
 The [GEDCOM X JSON Serialization Format](https://github.com/FamilySearch/gedcomx/blob/master/specifications/json-format-specification.md) specifies a JSON
 media type for the GEDCOM X Conceptual Model, and requests discussion and suggestions for improvements. Highlighted JSON schema for each of the JSON objects can be see
