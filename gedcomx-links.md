@@ -30,8 +30,6 @@ applicable to a fact. **Facts do not exist outside the scope of the subject to w
  
 * Section 2.5.2 of [Events and Facts Distinguished in Detail](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md)
 
-* [Facts](https://www.familysearch.org/innovate/facts) -- not sure of the value of this link.
-
 Event types specification
 
 * [Events](https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md) in Gedcom X Conceptual Model. 
