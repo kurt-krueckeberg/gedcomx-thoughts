@@ -1,3 +1,3 @@
 # GECOM X
 
-See Understanding [GedcomX sources](gedcomx.md)
+See Understanding [GedcomX](gedcomx.md)
