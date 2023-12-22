@@ -18,7 +18,9 @@ The differences between Events and Facts in Gedcom X is discussed here:
 > To easily test the ideas found in the first link below, simply go to **Family Tree -> Tree*, and do `+ Event` to add an event,
 > or `+ Fact` to add a fact.
 
-Events have Date and Place. Facts don't:
+### Events versus Facts Explained
+
+Events and facts are separately distinguished in Gedcom X. Events are occurances viewed abstractly apart from the persons in those events. 
 
 * [Clarifying Events vs Facts](https://github.com/FamilySearch/gedcomx/commit/ef0fe00c3645d2809c68cbccc39353d2154f9b23)
  
